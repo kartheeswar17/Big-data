@@ -1,0 +1,4 @@
+CIVIL	2
+ECE	5
+IT	3
+MECH	3
