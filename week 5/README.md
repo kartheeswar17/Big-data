@@ -119,34 +119,35 @@ Basic Stats → Visualizations → Correlations → Insights
 ## 📊 Visualizations Generated
 
 1. Sales by Category (Bar Chart)
-2. <img width="566" height="393" alt="image" src="https://github.com/user-attachments/assets/5c837261-8668-4c5c-a328-7cef3dfe654a" />
+<img width="566" height="393" alt="image" src="https://github.com/user-attachments/assets/5c837261-8668-4c5c-a328-7cef3dfe654a" />
 
-3. Sales Distribution (Histogram)
-4. <img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/233ec5df-216e-44b6-9721-0940befc0577" />
+2. Sales Distribution (Histogram)
+<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/233ec5df-216e-44b6-9721-0940befc0577" />
 
-5. Profit vs. Sales (Scatter Plot)
-6. <img width="561" height="393" alt="image" src="https://github.com/user-attachments/assets/f5d883cc-7b47-4619-9110-932036b6abe3" />
+3. Profit vs. Sales (Scatter Plot)
+<img width="561" height="393" alt="image" src="https://github.com/user-attachments/assets/f5d883cc-7b47-4619-9110-932036b6abe3" />
 
-7. Profit Distribution (Histogram + KDE)
-8. <img width="868" height="470" alt="image" src="https://github.com/user-attachments/assets/7a2c382a-70a2-4da6-b761-fc81453135f1" />
+4. Profit Distribution (Histogram + KDE)
+<img width="868" height="470" alt="image" src="https://github.com/user-attachments/assets/7a2c382a-70a2-4da6-b761-fc81453135f1" />
 
-9. Profit Box Plot
-10. <img width="799" height="470" alt="image" src="https://github.com/user-attachments/assets/65145cd9-8e81-4114-8fd8-c7ffff91dfd3" />
+5. Profit Box Plot
+<img width="799" height="470" alt="image" src="https://github.com/user-attachments/assets/65145cd9-8e81-4114-8fd8-c7ffff91dfd3" />
 
-11. Sales Distribution (Histogram + KDE)
-12. <img width="868" height="470" alt="image" src="https://github.com/user-attachments/assets/d89db9a8-f87f-4951-ba44-07562c4b8332" />
+6. Sales Distribution (Histogram + KDE)
+<img width="868" height="470" alt="image" src="https://github.com/user-attachments/assets/d89db9a8-f87f-4951-ba44-07562c4b8332" />
 
-13. Sales Box Plot
-14. <img width="799" height="470" alt="image" src="https://github.com/user-attachments/assets/1d015e2d-b8ef-4ec4-a39e-50f5604e8779" />
+7. Sales Box Plot
+<img width="799" height="470" alt="image" src="https://github.com/user-attachments/assets/1d015e2d-b8ef-4ec4-a39e-50f5604e8779" />
 
-15. Discount vs. Profit (Scatter Plot with color gradient)
-16. <img width="1026" height="547" alt="image" src="https://github.com/user-attachments/assets/ffe6c881-298e-483d-919f-41da3341d5e0" />
+8. Discount vs. Profit (Scatter Plot with color gradient)
+<img width="1026" height="547" alt="image" src="https://github.com/user-attachments/assets/ffe6c881-298e-483d-919f-41da3341d5e0" />
 
-17. Average Profit by Discount Bin (Bar Chart)
-18. <img width="1017" height="588" alt="image" src="https://github.com/user-attachments/assets/6318ba61-0961-4532-827e-7f2fadc3f974" />
+9. Average Profit by Discount Bin (Bar Chart)
+<img width="1017" height="588" alt="image" src="https://github.com/user-attachments/assets/6318ba61-0961-4532-827e-7f2fadc3f974" />
 
-19. Correlation Heatmap (All numerical features)
-20. ![Uploading image.png…]()
+10. Correlation Heatmap (All numerical features)
+<img width="915" height="836" alt="image" src="https://github.com/user-attachments/assets/0c29b00c-a406-4713-868d-332a3dea11ff" />
+
 
 
 ## 💻 Code Structure
