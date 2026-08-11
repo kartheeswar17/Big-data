@@ -119,15 +119,17 @@ Basic Stats → Visualizations → Correlations → Insights
 ## 📊 Visualizations Generated
 
 1. Sales by Category (Bar Chart)
-2. Sales Distribution (Histogram)
-3. Profit vs. Sales (Scatter Plot)
-4. Profit Distribution (Histogram + KDE)
-5. Profit Box Plot
-6. Sales Distribution (Histogram + KDE)
-7. Sales Box Plot
-8. Discount vs. Profit (Scatter Plot with color gradient)
-9. Average Profit by Discount Bin (Bar Chart)
-10. Correlation Heatmap (All numerical features)
+2. <img width="566" height="393" alt="image" src="https://github.com/user-attachments/assets/5c837261-8668-4c5c-a328-7cef3dfe654a" />
+
+3. Sales Distribution (Histogram)
+4. Profit vs. Sales (Scatter Plot)
+5. Profit Distribution (Histogram + KDE)
+6. Profit Box Plot
+7. Sales Distribution (Histogram + KDE)
+8. Sales Box Plot
+9. Discount vs. Profit (Scatter Plot with color gradient)
+10. Average Profit by Discount Bin (Bar Chart)
+11. Correlation Heatmap (All numerical features)
 
 ## 💻 Code Structure
 
